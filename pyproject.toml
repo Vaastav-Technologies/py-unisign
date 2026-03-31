@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "unisign"
-version = "0.0.0.dev0"
+version = "0.0.0.dev1"
 description = "Unifying various python signing implementations"
 requires-python = ">=3.12"
 readme = "README.md"
